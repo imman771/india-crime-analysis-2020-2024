@@ -11,7 +11,7 @@
 ![State Ranking](State-wise%20Crime%20Ranking.png)
 
 ### 4. Tamil Nadu Analysis
-![Tamil Nadu Analysis](Tamil%20Nadu%20Analysis.png)
+![Tamil Nadu Analysis](Tamil%20Nadu%20Analysis..png)
 
 ### 5. Key Findings and Insights
 ![Key Findings](Key%20Findings%20%26%20Insights.png)
